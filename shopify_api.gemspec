@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency("activeresource", ">= 3.0.0")
   s.add_runtime_dependency("rack")
-  s.add_runtime_dependency("graphql", "~> 1.6")
+  s.add_runtime_dependency("graphql", "~> 1.6.0")
   s.add_runtime_dependency("graphql-client", "~> 0.12.2")
 
   s.add_development_dependency("mocha", ">= 0.9.8")
